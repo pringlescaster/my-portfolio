@@ -11,7 +11,7 @@ function Projectsecond() {
     var projects = [
 
       {
-        name: "York Web Design (Redesigned)",
+        name: "Yorkgit Web Design (Redesigned)",
         company: "Sohoby Software Development Company",
         department: "UIUX Design",
         image: yorkk,
