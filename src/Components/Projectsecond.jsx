@@ -11,7 +11,7 @@ function Projectsecond() {
     var projects = [
 
       {
-        name: "Yorkgit Web Design (Redesigned)",
+        name: "York Web Design (Redesigned)",
         company: "Sohoby Software Development Company",
         department: "UIUX Design",
         image: yorkk,
@@ -41,11 +41,11 @@ function Projectsecond() {
       },
      
       {
-        name: "Gathr App",
+        name: "Gathr Event Location App",
         company: "Self Development",
         department: "UIUX Design",
         image: image3,
-        link: "https://www.figma.com/proto/iTlvPlZ1mdinXkT7zj8a4q/Event-App?page-id=0%3A1&node-id=2-2&m=dev&scaling=scale-down&starting-point-node-id=273%3A869&t=Me1TPDccIQ43b02g-1"
+        link: "https://www.figma.com/proto/iTlvPlZ1mdinXkT7zj8a4q/Event-App?page-id=0%3A1&node-id=255-687&m=dev&scaling=scale-down&starting-point-node-id=273%3A869&t=Me1TPDccIQ43b02g-1&show-proto-sidebar=1"
       },
 
 
