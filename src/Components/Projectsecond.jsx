@@ -3,10 +3,20 @@ import image0 from './assets/Rock paper scissors.svg'
 import image1 from './assets/Linkmyte web project.svg'
 import image2 from './assets/Linkmyte Customer App project.svg'
 import image3 from './assets/Gathr PROO.svg'
+import ipadresss from './assets/ip addresssess.svg'
 import arrow from './assets/Arrow 1.svg'
 
 function Projectsecond() {
     var projects = [
+
+
+        {
+            name: "IP Address",
+            company: "Self Development",
+            department: "Frontend Development",
+            image: ipadresss,
+            link: "https://ip-address-wheat.vercel.app/"
+          },   
 
         {
             name: "Rock, Paper, Scissors Game",
