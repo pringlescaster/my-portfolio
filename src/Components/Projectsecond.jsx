@@ -2,12 +2,51 @@ import React from 'react'
 import image0 from './assets/Rock paper scissors.svg'
 import image1 from './assets/Linkmyte web project.svg'
 import image2 from './assets/Linkmyte Customer App project.svg'
+import yorkk from './assets/MacBook Air (15 inch).svg'
 import image3 from './assets/Gathr PROO.svg'
 import ipadresss from './assets/ip addresssess.svg'
 import arrow from './assets/Arrow 1.svg'
 
 function Projectsecond() {
     var projects = [
+
+      {
+        name: "York Web Design (Redesigned)",
+        company: "Sohoby Software Development Company",
+        department: "UIUX Design",
+        image: yorkk,
+        link: "https://www.figma.com/proto/7HXBH6QYuupr0uRLWBf4bd/Untitled?page-id=0%3A1&node-id=5-42&viewport=610%2C1506%2C0.13&t=Q6cw3JDU41qZBY2h-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=25%3A1162"
+      },
+
+
+
+
+      {
+        name: "Linkmyte Customer App",
+        company: "Sohoby Software Development Company",
+        department: "UIUX Design",
+        image: image2,
+        link: "https://www.figma.com/proto/UPUS8Eza6WfdCmtExxyOuA/LinkMyte-Customer-App?page-id=1219%3A18361&node-id=1514-6675&viewport=352%2C163%2C0.02&t=trqNBBYvRu1eqJ4o-1&scaling=scale-down&starting-point-node-id=1219%3A18362"
+      },
+
+
+
+
+      {
+        name: "Linkmyte Web Project",
+        company: "Sohoby Software Development Company",
+        department: "UIUX Design, Frontend Development",
+        image: image1,
+        link: "https://linkmyte-project.vercel.app/"
+      },
+     
+      {
+        name: "Gathr App",
+        company: "Self Development",
+        department: "UIUX Design",
+        image: image3,
+        link: "https://www.figma.com/proto/iTlvPlZ1mdinXkT7zj8a4q/Event-App?page-id=0%3A1&node-id=2-2&m=dev&scaling=scale-down&starting-point-node-id=273%3A869&t=Me1TPDccIQ43b02g-1"
+      },
 
 
         {
@@ -26,27 +65,7 @@ function Projectsecond() {
             link: "https://rock-paper-scissors-game-sudden-death.vercel.app/"
           },
         
-      {
-        name: "Linkmyte Web Project",
-        company: "Sohoby Software Development Company",
-        department: "UIUX Design, Frontend Development",
-        image: image1,
-        link: "https://linkmyte-project.vercel.app/"
-      },
-      {
-        name: "Linkmyte Customer App",
-        company: "Sohoby Software Development Company",
-        department: "UIUX Design",
-        image: image2,
-        link: "https://www.figma.com/proto/UPUS8Eza6WfdCmtExxyOuA/LinkMyte-Customer-App?page-id=1219%3A18361&node-id=1514-6675&viewport=352%2C163%2C0.02&t=trqNBBYvRu1eqJ4o-1&scaling=scale-down&starting-point-node-id=1219%3A18362"
-      },
-      {
-        name: "Gathr App",
-        company: "Self Development",
-        department: "UIUX Design",
-        image: image3,
-        link: "https://www.figma.com/proto/iTlvPlZ1mdinXkT7zj8a4q/Event-App?page-id=0%3A1&node-id=2-2&m=dev&scaling=scale-down&starting-point-node-id=273%3A869&t=Me1TPDccIQ43b02g-1"
-      },
+      
     ];
     return (
        

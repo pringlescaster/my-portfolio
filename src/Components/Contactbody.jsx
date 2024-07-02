@@ -28,7 +28,7 @@ function Contactbody() {
         <img className='mx-auto size-10' src={linkedinn}  alt="" />
         <div className='grid justify-center gap-y-[4px]'>
             <h2 className='font-semibold font-openSans text-[#222222] text-[16px]'>LinkedIn</h2>
-            <p className='font-medium font-openSans text-[#444444] text-[14px] text-center'>uiux.pringles</p>
+            <p className='font-medium font-openSans text-[#444444] text-[14px] text-center'>Ayantoye David</p>
         </div>
       </div></a>
 
