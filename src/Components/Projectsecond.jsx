@@ -17,7 +17,7 @@ function Projectsecond() {
         company: "E-Commerce Car",
         department: "UIUX Design",
         image: prooo,
-        link: "https://www.figma.com/proto/7HXBH6QYuupr0uRLWBf4bd/Untitled?page-id=0%3A1&node-id=5-42&viewport=610%2C1506%2C0.13&t=Q6cw3JDU41qZBY2h-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=25%3A1162"
+        link: "https://www.figma.com/proto/v4iAfKCLKhhDr5qGwC5s8T/All-In-Car-Web-Design?page-id=0%3A1&node-id=144-436&viewport=534%2C153%2C0.25&t=mJHieLHxdzatmuoM-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=30%3A15&show-proto-sidebar=1"
       },
 
       {
