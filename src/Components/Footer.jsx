@@ -1,6 +1,6 @@
 import React from 'react'
 import Instagram from './assets/Instagram.svg'
-import Behance from './assets/behance.svg'
+import githubb from './assets/githubb.svg'
 import Whatsapp from './assets/Whatsapp.svg'
 import Linkedin from './assets/linkedin.svg'
 
@@ -15,7 +15,7 @@ function Footer() {
   <img className='w-6 md:w-6' src={Whatsapp} alt="WhatsApp" />
 </a>
                 <a href="http://www.linkedin.com/in/ayantoye-david-64615b249/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BVMzu4kN%2FRnG8gi3XOhFrKg%3D%3D"><img className='w-6 md:w-6' src={Linkedin} alt="" /></a>
-                <a href="https://www.behance.net/ayantoyedavid"><img className='w-6 md:w-6' src={Behance} alt="" /></a>
+                <a href="https://github.com/pringlescaster"><img className='w-6 md:w-6' src={githubb} alt="" /></a>
                
             </div>
         </div>

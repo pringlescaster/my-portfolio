@@ -4,6 +4,10 @@ import HtmlLogo from "./assets/HTML Logo.svg";
 import CssLogo from "./assets/Css Logo.svg";
 import JavascriptLogo from "./assets/Javascript Logo.svg";
 import ReactLogo from "./assets/React Logo.svg";
+import Mongodb from "./assets/MongoDB.svg";
+import Express from "./assets/Express.svg";
+import NextJs from "./assets/NextJs.svg";
+import NodeJs from "./assets/NodeJS.svg";
 function Fourth() {
   return (
     <div className="grid grid-cols-1 bg-[#F3F9F6] px-4 py-20 justify-center items-center">
@@ -11,7 +15,7 @@ function Fourth() {
         <h1 className="text-center text-2xl font-bold text-[rgb(17,17,17)] font-Nunito md:text-2xl md:text-center md:font-bold">
           My Skills and Work Experiences
         </h1>
-        <div className="grid grid-cols-1 md:grid-cols-3 md:gap-x-24 md:px-10 lg:px-12 lg:gap-x-44 lg:mx-auto md:justify-center md:items-start justify-center gap-y-12 ">
+        <div className="grid grid-cols-1 md:flex  md:gap-x-24 md:px-10 lg:px-12 lg:gap-x-44 lg:mx-auto md:justify-center md:items-start justify-center gap-y-12 ">
           <div className="grid justify-center gap-y-8">
             <h1 className="text-rose-500 text-center font-semibold text-xl font-openSans md:text-left ">
               Skills
@@ -49,6 +53,34 @@ function Fourth() {
                 <img src={ReactLogo} className="w-10" alt="" />
                 <h1 className="text-center text-sm font-openSans font-medium text-[#222222] md:text-left">
                   React
+                </h1>
+              </div>
+
+              <div className="grid gap-y-3">
+                <img src={Mongodb} className="w-10" alt="" />
+                <h1 className="text-center text-sm font-openSans font-medium text-[#222222] md:text-left">
+                  Mongo DB
+                </h1>
+              </div>
+
+              <div className="grid gap-y-3">
+                <img src={Express} className="w-10" alt="" />
+                <h1 className="text-center text-sm font-openSans font-medium text-[#222222] md:text-left">
+                  Express
+                </h1>
+              </div>
+
+              <div className="grid gap-y-3">
+                <img src={NextJs} className="w-10" alt="" />
+                <h1 className="text-center text-sm font-openSans font-medium text-[#222222] md:text-left">
+                  NextJS
+                </h1>
+              </div>
+
+              <div className="grid gap-y-3">
+                <img src={NodeJs} className="w-10" alt="" />
+                <h1 className="text-center text-sm font-openSans font-medium text-[#222222] md:text-left">
+                  NodeJs
                 </h1>
               </div>
             </div>
@@ -90,6 +122,32 @@ function Fourth() {
             <h1 className="text-rose-500 text-center font-semibold text-xl font-openSans md:text-left md:gap-y-10 ">
               Education
             </h1>
+            <div className="grid gap-y-2 md:gap-y-3">
+              <h6 className="text-[#555555] font-openSans text-sm font-medium text-center md:text-left">
+                September, 2024 - Octtober, 2024
+              </h6>
+              <div>
+                <h6 className="text-[#111111] text-base font-bold font-Nunito text-center md:text-left">
+                  Fullstack Developer
+                </h6>
+                <p className="text-[#2A848A] text-center md:text-left">
+                  Larva Coding Academy
+                </p>
+              </div>
+            </div>
+            <div className="grid gap-y-2 md:gap-y-3">
+              <h6 className="text-[#555555] font-openSans text-sm font-medium text-center md:text-left">
+                April, 2024 - September, 2024
+              </h6>
+              <div>
+                <h6 className="text-[#111111] text-base font-bold font-Nunito text-center md:text-left">
+                  Backend Developer
+                </h6>
+                <p className="text-[#2A848A] text-center md:text-left">
+                  Larva Coding Academy
+                </p>
+              </div>
+            </div>
             <div className="grid gap-y-2 md:gap-y-3">
               <h6 className="text-[#555555] font-openSans text-sm font-medium text-center md:text-left">
                 November, 2023 - April, 2024

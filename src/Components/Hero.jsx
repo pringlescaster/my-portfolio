@@ -1,6 +1,6 @@
 import React from "react";
 import { ReactTyped } from "react-typed";
-import HeroImg from "./assets/Hero Image.svg";
+import HeroImg from "./assets/ProfileImg.svg";
 
 function Hero() {
   return (
@@ -10,7 +10,7 @@ function Hero() {
           Hello, I’m Ayantoye David,{" "}
           <ReactTyped
             className="text-rose-500"
-            strings={["UI/UX Designer", "Frontend Developer"]}
+            strings={["UI/UX Designer", "Frontend Developer", "Backend Developer (MERN"]}
             typeSpeed={100}
             backSpeed={110}
             loop

@@ -6,10 +6,56 @@ import yorkk from './assets/MacBook Air (15 inch).svg'
 import image3 from './assets/Gathr PROO.svg'
 import ipadresss from './assets/ip addresssess.svg'
 import arrow from './assets/Arrow 1.svg'
-import prooo from './assets/dddd.svg'
+import prooo from './assets/dddd.svg';
+import web3 from './assets/web3.svg'
+import hackathonn from './assets/hackathonn.svg'
+import rushrooms from './assets/rushrooms.svg'
+import brilliante from './assets/iPhone 12 Pro (Wooden Hands).svg'
+
+
+
+
 
 function Projectsecond() {
     var projects = [
+
+
+      {
+        name: "Brilliante Car Wash App",
+        company: "Sohoby Software Development Company",
+        department: "UIUX Design",
+        image: brilliante,
+        link: "https://www.figma.com/proto/WiGpab2GdJ5MHRnma0R0gj/Untitled?page-id=0%3A1&node-id=126-842&node-type=frame&viewport=-735%2C-1947%2C0.51&t=i7hWhSuPpmWpVTNe-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A2"
+      },
+
+
+      {
+        name: "RushRoom Rental App",
+        company: "Sohoby Software Development Company",
+        department: "UIUX Design",
+        image: rushrooms,
+        link: "https://www.figma.com/proto/ofivgmecbeDWgiscwaQR1u/Untitled?page-id=0%3A1&node-id=233-1160&viewport=632%2C241%2C0.03&t=l8lXrI4XBwDggV4P-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=6%3A463"
+      },
+
+
+      {
+        name: "ReExhange Webdesign",
+        company: "Reactive Smart Contract Web 3",
+        department: "UIUX Design",
+        image: hackathonn,
+        link: "https://www.figma.com/proto/zi6z9OAClVEE0q8SZWMgVy/ReExchange?page-id=0%3A1&node-id=20-87&node-type=frame&viewport=-930%2C440%2C0.5&t=IGqiXtb4bH2nwjMc-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=20%3A87"
+      },
+
+
+
+      {
+        name: "NFT Marketplace Webdesign",
+        company: "Buildathon Africa Web 3",
+        department: "UIUX Design",
+        image: web3,
+        link: "https://www.figma.com/proto/sUN71oefGJX7H8Co3ZkrBx/WEB-3-BUILDATHON?page-id=0%3A1&node-id=175-67&node-type=frame&viewport=679%2C857%2C0.39&t=HbzfQQhGCAKmlJ2c-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=39%3A245"
+      },
+
 
 
       {
