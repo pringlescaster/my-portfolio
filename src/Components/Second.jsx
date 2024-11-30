@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "./assets/futurism-perspective-digital-nomads-lifestyle.jpg";
-import cv from "./assets/cv pngg.png";
+import cv from "./assets/CV (New).png";
 
 function Second() {
   return (
