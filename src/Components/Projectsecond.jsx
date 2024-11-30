@@ -25,7 +25,7 @@ function Projectsecond() {
       {
         name: "All In Car Webdesign",
         company: "E-Commerce Car",
-        department: "UIUX Design",
+        department: " Web Design & Fullstack" ,
         image: prooo,
         link: "https://allincars-brown.vercel.app/"
       },
