@@ -20,7 +20,7 @@ function Projectsecond() {
       department: "Mobile App",
       description: "A food ordering and meal management system designed for hospitals, enabling seamless patient meal tracking and delivery.",
       image: rmr,
-      link: "https://www.figma.com/proto/JS9HAM0Fg9KS790YorQx5W/RMR-Food-App?page-id=0%3A1&node-id=21-278"
+      link: "https://www.figma.com/proto/JS9HAM0Fg9KS790YorQx5W/RMR-Food-App?page-id=356%3A2083&node-id=356-2162&p=f&viewport=314%2C-3567%2C0.23&t=A8Epfz1QM1gPzGzn-1&scaling=scale-down-width&content-scaling=fixed"
     },
     {
       name: "Zmyte Web App",
@@ -28,7 +28,7 @@ function Projectsecond() {
       department: "Web Design",
       description: "An AI-powered email and WhatsApp campaign automation platform, optimized for multilingual support and real-time analytics.",
       image: zmyte,
-      link: "https://www.figma.com/proto/DGUV5pCL60PDN8kBXSoDUK/Zmyte?page-id=0%3A1"
+      link: "https://www.figma.com/proto/DGUV5pCL60PDN8kBXSoDUK/Zmyte?page-id=609%3A4185&node-id=611-7079&p=f&viewport=313%2C45%2C0.02&t=lVY29Dbdz7S85WLl-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=611%3A7079"
     },
     {
       name: "All In Car Webdesign",
